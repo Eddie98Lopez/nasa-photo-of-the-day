@@ -13,26 +13,3 @@ body {
   justify-content: center;
   height: 100vh;
 }
-
-.info-container {
-  padding: 3rem;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  background: black;
-}
-
-.info-container p {
-  font-size: 0.87rem;
-  color: rgb(158, 158, 158);
-}
-
-.imgContainer {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.imgContainer img {
-  margin: auto;
-  width: 80%;
-}
